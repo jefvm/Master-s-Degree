@@ -1,2 +1,2 @@
-# Master-s-Degree
+# Masters-Degree
 All information about master's degree
