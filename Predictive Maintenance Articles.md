@@ -2,11 +2,13 @@ Title: Predictive Maintenance Optimization for Aircraft Redundant Systems Subjec
 Year:2018  
 Publisher:IEEE Systems Journal   
 Link: https://ieeexplore.ieee.org/abstract/document/7865981
+(OK)
 
 Title:A research study on unsupervised machine learning algorithms for early fault detection in predictive maintenance  
 Year: 2018
 Publisher:2018 5th International Conference on Industrial Engineering and Applications (ICIEA)   
 Link:https://ieeexplore.ieee.org/abstract/document/8387124
+
 
 Title:Prediction of Remaining Useful Lifetime (RUL) of turbofan engine using machine learning  
 Year:2017  
@@ -32,6 +34,7 @@ Title:Aircraft air conditioning system health state estimation and prediction fo
 Year:2020  
 Publisher:Journals & Books - Sciencedirect
 Link:https://www.sciencedirect.com/science/article/pii/S1000936119302055
+(STAND BY)
 
 Title:Aircraft auxiliary power unit performance assessment and remaining useful life evaluation for predictive maintenance
 Year:2020
@@ -42,6 +45,7 @@ Title: Predictive maintenance in aviation: Failure prediction from post-flight r
 Year:2018
 Publisher:IEEE 34th International Conference on Data Engineering
 Link:https://www.scopus.com/record/display.uri?eid=2-s2.0-85057077603&origin=resultslist&sort=plf-f&src=s&st1=Predictive+aircraft+maintenance&nlo=&nlr=&nls=&sid=e85fbc1e1fde85007a96dd8f4b693638&sot=b&sdt=sisr&sl=46&s=TITLE-ABS-KEY%28Predictive+aircraft+maintenance%29&ref=%28%28Predictive+aircraft+maintenance+using+machine+learning%29%29+AND+%28Predictive+aircraft+maintenance+using+deep+learning%29&relpos=15&citeCnt=3&searchTerm=
+(ok)
 
 Title: Predictive maintenance for aircraft engines using data fusion
 Year: 2018
