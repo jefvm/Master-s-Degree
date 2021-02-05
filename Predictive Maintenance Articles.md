@@ -4,6 +4,16 @@ Publisher:IEEE Systems Journal
 Link: https://ieeexplore.ieee.org/abstract/document/7865981
 (OK)
 
+Title: Predictive maintenance in aviation: Failure prediction from post-flight reports
+Year:2018
+Publisher:IEEE 34th International Conference on Data Engineering
+Link:https://www.scopus.com/record/display.uri?eid=2-s2.0-85057077603&origin=resultslist&sort=plf-f&src=s&st1=Predictive+aircraft+maintenance&nlo=&nlr=&nls=&sid=e85fbc1e1fde85007a96dd8f4b693638&sot=b&sdt=sisr&sl=46&s=TITLE-ABS-KEY%28Predictive+aircraft+maintenance%29&ref=%28%28Predictive+aircraft+maintenance+using+machine+learning%29%29+AND+%28Predictive+aircraft+maintenance+using+deep+learning%29&relpos=15&citeCnt=3&searchTerm=
+(ok)
+
+_____________________________________________________________________________________________________________________________________________________
+
+
+
 Title:A research study on unsupervised machine learning algorithms for early fault detection in predictive maintenance  
 Year: 2018
 Publisher:2018 5th International Conference on Industrial Engineering and Applications (ICIEA)   
@@ -41,11 +51,6 @@ Year:2020
 Publisher:  Journal of Power and Energy
 Link:  https://www.scopus.com/record/display.uri?eid=2-s2.0-85074595079&origin=resultslist&sort=plf-f&src=s&st1=Predictive+aircraft+maintenance&nlo=&nlr=&nls=&sid=23fbb7fffe10a19bbc986100274cf0e8&sot=b&sdt=sisr&sl=46&s=TITLE-ABS-KEY%28Predictive+aircraft+maintenance%29&ref=%28Predictive+aircraft+maintenance+using+machine+learning%29&relpos=3&citeCnt=1&searchTerm=
 
-Title: Predictive maintenance in aviation: Failure prediction from post-flight reports
-Year:2018
-Publisher:IEEE 34th International Conference on Data Engineering
-Link:https://www.scopus.com/record/display.uri?eid=2-s2.0-85057077603&origin=resultslist&sort=plf-f&src=s&st1=Predictive+aircraft+maintenance&nlo=&nlr=&nls=&sid=e85fbc1e1fde85007a96dd8f4b693638&sot=b&sdt=sisr&sl=46&s=TITLE-ABS-KEY%28Predictive+aircraft+maintenance%29&ref=%28%28Predictive+aircraft+maintenance+using+machine+learning%29%29+AND+%28Predictive+aircraft+maintenance+using+deep+learning%29&relpos=15&citeCnt=3&searchTerm=
-(ok)
 
 Title: Predictive maintenance for aircraft engines using data fusion
 Year: 2018
